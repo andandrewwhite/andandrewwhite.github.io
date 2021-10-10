@@ -17,7 +17,7 @@ picture-about: assets/images/about.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com # replase with europass url
+resume-url: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/ebd30fa6-a10f-4ad4-a1e9-5f2710a99983?view=html
 
 url: https://andandrewwhite.github.io
 
