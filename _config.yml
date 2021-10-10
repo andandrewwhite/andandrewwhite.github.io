@@ -1,8 +1,8 @@
-title: Sofia Romanova
+title: Andrew White
 
 # main text of home
-name: Sofia Romanova
-bio: Mobile interface designer
+name: Andrew White
+bio: The best guitar player ever
 
 # twitter summary info
 description: Personal portfolio
@@ -17,9 +17,9 @@ picture-about: assets/images/about.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://spb.hh.ru/applicant/resumes/view?resume=7010ae06ff077e5ae80039ed1f695135524c51
+resume-url: https://google.com # replase with europass url
 
-url: https://zzzya.me
+url: https://andandrewwhite.github.io
 
 permalink: /:title/
 
@@ -31,7 +31,7 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # To enable yandex analytics, supply your code below
-analytics-yandex: 85189441
+# analytics-yandex: 000
 
 # if you don't want comments in your posts, leave categories empty
 disqus: false
@@ -43,9 +43,9 @@ disqus: false
 # facebook: myfacebook
 # twitter: mytwitter
 # instagram: myinstagram
-telegram: zzzya
+telegram: andandrewwhite
 # pinterest: mypinterest
-linkedin: sofiaromanova
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
@@ -57,12 +57,12 @@ linkedin: sofiaromanova
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: zzzya@ya.ru
+email: andandrewwhite@gmail.com
 
 # authors:
-#     pashcal:
-#         name: Sofia Romanova
-#         bio: Mobile Designer
+#     drew:
+#         name: Andrew White
+#         bio: Designer
 #         external-image: false
 #         picture: assets/images/profile.jpg
 
@@ -81,16 +81,12 @@ pagination:
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-projects-list:
-  - title: "App for the 'Globus' hypermarkets"
-    link: "https://www.e-legion.ru/portfolio/projects/globus-2.0/"
-    current: true
-  - title: "Sports Betting App — '888'"
-    link: "https://www.e-legion.ru/portfolio/projects/888/"
-    current: false
-  - title: "Few old projects on Behance"
-    link: "https://www.behance.net/zzzya"
-    current: false
+projects-external: false
+projects-url: assets/pdf/portfolio.pdf
+
+letters: true
+letters-external: false
+letters-url: assets/pdf/portfolio.pdf
 
 # if you don't need "about" or "blog", comment them out below
 about: true

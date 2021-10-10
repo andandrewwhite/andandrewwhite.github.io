@@ -1,6 +1,6 @@
-<nav class="{% if page.title == "Designer" %}nav-home{% else %}nav{% endif %}">
+<nav class="{% if page.title == "Home" %}nav-home{% else %}nav{% endif %}">
     <ul class="list">
-        {% if page.title != "Designer" %}
+        {% if page.title != "Home" %}
             <li class="item">
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
@@ -15,11 +15,9 @@
         {% endif %}
 
         {% if site.projects == true %}
-            {% if page.title != "Projects" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/projects">Projects</a>
-                </li>
-            {% endif %}
+            <li class="item">
+                <a class="link" href="{% if site.projects-external %}{{ site.projects-url }}{% else %}{{ site.url }}/{{ site.projects-url }}{% endif %}" target="_blank">Projects</a>
+            </li>
         {% endif %}
 
         {% if site.about == true %}
@@ -30,9 +28,15 @@
             {% endif %}
         {% endif %}
 
+        {% if site.letters == true %}
+            <li class="item">
+                <a class="link" href="{% if site.letters-external %}{{ site.letters-url }}{% else %}{{ site.url }}/{{ site.letters-url }}{% endif %}" target="_blank">Recommendation Letters</a>
+            </li>
+        {% endif %}
+
         {% if site.resume == true %}
             <li class="item">
-                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
+                <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}" target="_blank">CV</a>
             </li>
         {% endif %}
     </ul>
