@@ -4,6 +4,10 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture-about }}{% else %}{{ site.url }}/{{ site.picture-about }}{% endif %})
 
-UI/UX designer from Saint-Petersburg
-
-I create mobile interfaces at [E-Legion](https://www.e-legion.com)
+Hi!
+My name is Andrew and I believe that every design should be based on analysis and certain goals of the company it’s made for.
+I worked as chief designer for several Russian companies and here are some examples of my work.
+- Brand books and Guidelines Development
+- Printed marketing materials
+- UI/UX design
+- Technical design
