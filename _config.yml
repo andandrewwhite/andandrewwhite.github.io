@@ -17,7 +17,7 @@ picture-about: assets/images/about.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://europa.eu/europass/eportfolio/screen/share/00d08001-b2ed-4100-9552-cd37518db8c6?lang=en
+resume-url: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/bc496419-b8fb-4d3f-820e-f6ce8e4edd11?view=html
 
 url: https://andandrewwhite.github.io
 
