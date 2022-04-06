@@ -4,6 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture-about }}{% else %}{{ site.url }}/{{ site.picture-about }}{% endif %})
 
+Hi!
+
 My name is Andrew. I live in Portugal in Figueira da Foz.
 
 I have been working for several years as a graphic designer and a UI-UX designer. I worked with guidelines and design systems, conducted usability sessions and research analysis, created wireframes, and rapid and high-resolution prototypes. I managed the research and interviewed stakeholders, and worked on user scenarios. I worked in a team and also as the only designer being in close collaboration with Business Analyst. My work was connected with redesigning existing solutions and creating new ones from scratch.  
