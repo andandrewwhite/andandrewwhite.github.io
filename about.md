@@ -6,10 +6,10 @@ layout: page
 
 Hi!
 
-My name is Andrew. I live in Portugal in Figueira da Foz.
+My name is Andrew. I live in Figueira da Foz, Portugal.
 
-I have been working for several years as a graphic designer and a UI-UX designer. I worked with guidelines and design systems, conducted usability sessions and research analysis, created wireframes, and rapid and high-resolution prototypes. I managed the research and interviewed stakeholders, and worked on user scenarios. I worked in a team and also as the only designer being in close collaboration with Business Analyst. My work was connected with redesigning existing solutions and creating new ones from scratch.  
+I have been working for more than 10 years as a graphic and technical designer and later as UI/UX designer.
 
-I am experienced in Sketch, Figma, Adobe Photoshop, Adobe Indesign, Corel Draw, and proficient in photo editing software such as Adobe Lightroom and Capture One. I have basic HTML and CSS knowledge, I am familiar with CMS tools, acquainted with Jira, YouTrack, and Bitrix24.
+I worked with guidelines and design systems, conducted usability sessions and research analysis, created wire frames, and rapid and high-resolution prototypes. I managed the research, interviewed stakeholders, and worked on user scenarios.
 
-I speak English and Russian is my native language. Also, I currently learn Portuguese at the University of Coimbra.
+I worked in a team and also as the only designer being in close collaboration with business owners, stakeholders and business analysts. My job was to redesign existing solutions and also to create new ones from scratch.
