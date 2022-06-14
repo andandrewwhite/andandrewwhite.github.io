@@ -82,7 +82,7 @@ pagination:
 # if you don't need projects, comment the *projects* configs below
 projects: true
 projects-external: false
-projects-url: assets/pdf/portfolio.pdf
+projects-url: https://disk.yandex.ru/d/j04zVxX2YkQdRQ
 
 letters: true
 letters-external: false
