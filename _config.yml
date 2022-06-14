@@ -81,7 +81,7 @@ pagination:
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-projects-external: false
+projects-external: true
 projects-url: https://disk.yandex.ru/d/j04zVxX2YkQdRQ
 
 letters: true
