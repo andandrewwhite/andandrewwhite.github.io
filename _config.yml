@@ -16,8 +16,8 @@ picture-about: assets/images/about.png
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/dfa524b0-cba7-4aaa-a3bd-a3b788bcf06c?view=html
+resume-external: false
+resume-url: assets/pdf/CV_Andrey Beliaev_Designer.pdf
 
 url: https://andandrewwhite.github.io
 
